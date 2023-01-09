@@ -1,4 +1,4 @@
-package com.greatlearning.lab2.problem2;
+package com.greatlearning.Tirthankar_FOPJava_Lab2.problem2;
 
 import java.util.*;
 

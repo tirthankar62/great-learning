@@ -1,4 +1,4 @@
-package com.greatlearning.lab2.problem1;
+package com.greatlearning.Tirthankar_FOPJava_Lab2.problem1;
 
 import java.util.LinkedList;
 import java.util.List;
